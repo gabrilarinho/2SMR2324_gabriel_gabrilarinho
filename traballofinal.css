@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&family=Linefont:wght@100&family=Oswald:wght@200&display=swap');
+
+body{
+  font-family: Rubik;
+}
+
+.introduccion{
+  font-family: Arial;
+}
+
+.informacion{
+  font-family: Arial;
+}
+
+
+
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 80px;
+  background-color:royalblue;
+  margin-left: -8px;
+}
+
+#gtr{
+  margin-top: 70px;
+  }
+
+#coche{
+  margin-left: 10px;
+}
+
+body{
+  background-color: lightgray;
+  
+}
+
+#cabecera{
+  background-color: white;
+  font-family: Arial;
+  }
+
+.tecnologia{
+  font-family: Arial;
+}
+
+.contenedor-flex {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      width: 80%;
+      max-width: 600px; 
+    }
+
+    .imagen {
+      width: 100%;
+      height: auto;
+      max-width: 300px;
+    }
